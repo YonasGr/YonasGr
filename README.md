@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Yonas Girma
 
 I'm an IT student at Haramaya University, passionate about software development and technology. Here’s a bit about me:
 
