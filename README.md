@@ -2,6 +2,8 @@
 
 [![Email](https://img.shields.io/badge/Email-yonasgirma222@gmail.com-blue?style=flat-square&logo=gmail)](mailto:yonasgirma222@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@YonasGr-%23181717?style=flat-square&logo=github)](https://github.com/YonasGr)
+[![Telegram](https://img.shields.io/badge/Telegram-@x_jonah-%232CA5E0?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/x_jonah)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-@Jonah_Girma-%23000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/Jonah_Girma)
 
 I'm an IT student at Haramaya University, passionate about software development and technology.
 
@@ -9,6 +11,7 @@ I'm an IT student at Haramaya University, passionate about software development 
 - 🌱 I’m always learning new technologies and building my skills.
 - 📫 How to reach me: yonasgirma222@gmail.com
 - ⚡ **Fun fact:** I will be the future software developer.
+- 📍 **Location:** Harar, Ethiopia
 
 ## My Tech Stack
 
