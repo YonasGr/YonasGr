@@ -26,7 +26,7 @@ I'm an IT student at Haramaya University, passionate about software development 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=andriod-studio)
+![Andriod_Studio](https://img.shields.io/badge/-andriodstudio?style=flat-square&logo=andriod-studio)
 
 ---
 
