@@ -1,0 +1,30 @@
+name: Generate Contribution Snake
+
+on:
+  workflow_dispatch:     # manual run
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours (adjust if you want)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: YonasGr
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generate contribution snake"
+
