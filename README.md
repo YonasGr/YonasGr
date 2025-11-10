@@ -48,6 +48,10 @@ I'm an IT student at Haramaya University, passionate about software development 
 
 ---
 
+## My contribution snake
+![GitHub Snake](https://raw.githubusercontent.com/yonasgr/yonasgr/output/github-snake-dark.svg)
+
+
 ## 📊 My GitHub Stats
 
 ![Yonas Gr's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonasGr&show_icons=true&theme=dracula)
