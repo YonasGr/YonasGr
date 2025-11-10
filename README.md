@@ -49,7 +49,7 @@ I'm an IT student at Haramaya University, passionate about software development 
 ---
 
 ## My contribution snake
-![GitHub Snake](https://raw.githubusercontent.com/yonasgr/yonasgr/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/yonasgr/yonasgr/main/dist/github-snake-dark.svg)
 
 
 ## 📊 My GitHub Stats
