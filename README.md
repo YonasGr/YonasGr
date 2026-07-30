@@ -40,20 +40,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 <div align="center">
   <table>
     <tr>
       <td>
         <p>
-          🎓 <b>Information Technology</b> student & <b>Full Stack Software Engineer</b><br/>
-          📱 Crafting cross-platform mobile experiences with <b>React Native</b><br/>
-          ⚡ Building high-performance backends with <b>FastAPI</b><br/>
-          ☁️ Designing cloud-native solutions on <b>Azure</b><br/>
-          🐳 Containerizing everything with <b>Docker</b><br/>
-          🔄 Automating workflows with <b>CI/CD</b> pipelines<br/>
-          🏗️ Passionate about <b>clean architecture</b> & <b>scalable systems</b>
+          <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=flat-square&labelColor=1E293B"/> <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=flat-square&labelColor=1E293B"/><br/><br/>
+          <img src="https://img.shields.io/badge/📱_Mobile-React_Native_Expo-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1E293B"/><br/>
+          <img src="https://img.shields.io/badge/⚡_Backend-FastAPI_Python-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E293B"/><br/>
+          <img src="https://img.shields.io/badge/☁️_Cloud-Azure_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1E293B"/><br/>
+          <img src="https://img.shields.io/badge/🐳_Containers-Docker_Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1E293B"/><br/>
+          <img src="https://img.shields.io/badge/🔄_CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1E293B"/><br/>
+          <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_&_Scalable-F59E0B?style=flat-square&logo=amazondocumentdb&logoColor=white&labelColor=1E293B"/>
         </p>
       </td>
     </tr>
@@ -64,12 +64,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🕊 Logos Path</h3>
+      <h3 align="center">
+  <img src="https://img.shields.io/badge/🕊_Logos_Path-Bible_Study_App-8B5CF6?style=for-the-badge&labelColor=1E293B&logo=bookstack&logoColor=white"/>
+</h3>
       <p align="center">
         <b>Cross-platform Bible Study Platform</b><br/><br/>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -88,7 +90,9 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 Safari Game Zone</h3>
+      <h3 align="center">
+  <img src="https://img.shields.io/badge/🎮_Safari_Game_Zone-Multiplayer_Bingo-10B981?style=for-the-badge&labelColor=1E293B&logo=telegram&logoColor=white"/>
+</h3>
       <p align="center">
         <b>Multiplayer Bingo Telegram Mini App</b><br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
@@ -107,7 +111,9 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💹 Binance P2P ETB Bot</h3>
+      <h3 align="center">
+  <img src="https://img.shields.io/badge/💹_Binance_P2P_Bot-Crypto_Assistant-F59E0B?style=for-the-badge&labelColor=1E293B&logo=binance&logoColor=white"/>
+</h3>
       <p align="center">
         <b>Real-time Cryptocurrency Assistant</b><br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
@@ -126,7 +132,7 @@
     </td>
     <td width="50%" align="center" valign="center">
       <br/>
-      <h3>🌟 More Projects Coming Soon!</h3>
+      <img src="https://img.shields.io/badge/🚀_More_Projects-Coming_Soon!-6366F1?style=for-the-badge&labelColor=1E293B"/>
       <p>
         <i>Building innovative solutions in</i><br/>
         Mobile • Cloud • AI • DevOps
@@ -142,31 +148,31 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚙️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
 
 <div align="center">
 
-### 🎯 Core Languages
+<img src="https://img.shields.io/badge/🎯_Core_Languages-TypeScript_|_Python_|_JavaScript_|_Java_|_C++-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
 [![My Skills](https://skillicons.dev/icons?i=typescript,python,javascript,java,cpp&perline=5)](https://skillicons.dev)
 
-### 📱 Mobile & Frontend
+<img src="https://img.shields.io/badge/📱_Mobile_&_Frontend-React_|_Next.js_|_Expo_|_Kotlin-61DAFB?style=for-the-badge&labelColor=1E293B&logo=react"/>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,redux,kotlin&perline=6)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1E293B"/>
 
-### ⚡ Backend & APIs
+<img src="https://img.shields.io/badge/⚡_Backend_&_APIs-FastAPI_|_Node.js_|_Firebase-009688?style=for-the-badge&labelColor=1E293B&logo=fastapi"/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,supabase,firebase,redis,docker&perline=6)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=1E293B"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B"/>
 
-### 🗄️ Data & Storage
+<img src="https://img.shields.io/badge/🗄️_Data_&_Storage-PostgreSQL_|_MongoDB_|_Redis-4169E1?style=for-the-badge&labelColor=1E293B&logo=postgresql"/>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4)](https://skillicons.dev)
 
-### ☁️ Cloud, DevOps & Infra
+<img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-Azure_|_Docker_|_Linux_|_CI/CD-0078D4?style=for-the-badge&labelColor=1E293B&logo=microsoftazure"/>
 [![My Skills](https://skillicons.dev/icons?i=azure,linux,bash,githubactions,git,nginx&perline=6)](https://skillicons.dev)
 
-### 🛠️ Developer Tools
+<img src="https://img.shields.io/badge/🛠️_Dev_Tools-VS_Code_|_Postman_|_Figma-5C2D91?style=for-the-badge&labelColor=1E293B&logo=visualstudiocode"/>
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma&perline=4)](https://skillicons.dev)
 
 </div>
@@ -175,7 +181,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Current Focus
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Focus
 
 <div align="center">
   <table>
@@ -208,7 +214,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Analytics
 
 
 <div align="center">
@@ -246,12 +252,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Build Together
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Build Together
 
 <div align="center">
-  <p>
-    <i>"Great software isn't just built—it's engineered with purpose, refined through iteration, and measured by the value it creates."</i>
-  </p>
+<img src="https://img.shields.io/badge/💡_Philosophy-Great_software_isn't_just_built—it's_engineered_with_purpose-8B5CF6?style=for-the-badge&labelColor=1E293B"/>
 
   <br/>
 
