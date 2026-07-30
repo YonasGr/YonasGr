@@ -210,12 +210,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YonasGr&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
-</div>
-
-<br/>
-
 
 <div align="center">
   <a href="https://github.com/YonasGr">
