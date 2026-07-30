@@ -216,13 +216,26 @@
 
 <br/>
 
+
 <div align="center">
   <a href="https://github.com/YonasGr">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YonasGr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&ring_color=4F8EF7" alt="GitHub Stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YonasGr&theme=github-compact&hide_border=true&area=true&radius=16&bg_color=0D1117&color=4F8EF7&line=4F8EF7&point=FFFFFF" width="95%" alt="Activity Graph"/>
   </a>
-  <a href="https://github.com/YonasGr">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YonasGr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Most Used Languages"/>
-  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YonasGr&theme=tokyonight" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YonasGr&theme=tokyonight&utcOffset=3" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
