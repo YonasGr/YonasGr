@@ -46,63 +46,32 @@
   <table>
     <tr>
       <td>
-        <table>
-          <tr>
-            <td align="center" width="50%">
-              <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
-            </td>
-            <td align="center" width="50%">
-              <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=for-the-badge&labelColor=1E293B"/>
-            </td>
-          </tr>
-        </table>
-        <br/>
+        <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
+        <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=for-the-badge&labelColor=1E293B"/>
+        <br/><br/>
         <p align="left">
-          👋 Hey there! I'm a passionate <b>Software Engineer</b> and <b>IT student</b> who thrives at the intersection of <b>mobile development</b>, <b>backend engineering</b>, and <b>cloud infrastructure</b>. I transform ambitious ideas into production-ready applications that scale.
+          Hey there! 👋 I'm a passionate <b>Software Engineer</b> who loves transforming complex problems into elegant, scalable solutions. Currently pursuing my degree in <b>Information Technology</b> while building production-ready applications that make a real impact.
         </p>
         <br/>
-        <details>
-          <summary><b>🔭 What I'm Currently Building</b></summary>
+        <p align="left">
+          <b>🔭 What I'm Building:</b><br/>
+          <img src="https://img.shields.io/badge/📱_Mobile_Apps-React_Native_•_Expo-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1E293B"/>
           <br/>
-          <table>
-            <tr>
-              <td><img src="https://img.shields.io/badge/📱_Mobile-React_Native_•_Expo-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1E293B"/></td>
-              <td>Cross-platform apps for Android & iOS</td>
-            </tr>
-            <tr>
-              <td><img src="https://img.shields.io/badge/⚡_APIs-FastAPI_•_Python-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E293B"/></td>
-              <td>High-performance REST & GraphQL backends</td>
-            </tr>
-            <tr>
-              <td><img src="https://img.shields.io/badge/☁️_Cloud-Azure_•_Docker-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1E293B"/></td>
-              <td>Cloud-native infrastructure & containerization</td>
-            </tr>
-            <tr>
-              <td><img src="https://img.shields.io/badge/🔄_DevOps-CI/CD_•_Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1E293B"/></td>
-              <td>Automated deployment pipelines</td>
-            </tr>
-          </table>
-        </details>
-        <br/>
-        <details>
-          <summary><b>💡 My Engineering Philosophy</b></summary>
+          <img src="https://img.shields.io/badge/⚡_Backend_APIs-FastAPI_•_Python-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E293B"/>
           <br/>
-          <p align="center">
-            <i>"Great software isn't just built—it's engineered with purpose, refined through iteration, and measured by the value it creates for users."</i>
-          </p>
-        </details>
-        <br/>
-        <details>
-          <summary><b>🌱 Currently Exploring</b></summary>
+          <img src="https://img.shields.io/badge/☁️_Cloud_Infra-Azure_•_Docker-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1E293B"/>
           <br/>
-          <img src="https://img.shields.io/badge/🏗️_System_Design-Scalable_Architecture-F59E0B?style=flat-square&labelColor=1E293B"/>
-          <img src="https://img.shields.io/badge/🔐_Security-Auth_&_Best_Practices-10B981?style=flat-square&labelColor=1E293B"/>
+          <img src="https://img.shields.io/badge/🔄_DevOps-CI/CD_•_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1E293B"/>
+          <br/><br/>
+          <b>💡 My Philosophy:</b><br/>
+          <i>"Building scalable systems isn't just about code—it's about crafting experiences that users love and architectures that stand the test of time."</i>
+          <br/><br/>
+          <b>🌱 Currently Exploring:</b>
+          <img src="https://img.shields.io/badge/🏗️_System_Architecture-Clean_Design-F59E0B?style=flat-square&labelColor=1E293B"/>
+          <img src="https://img.shields.io/badge/🔐_Security-Best_Practices-10B981?style=flat-square&labelColor=1E293B"/>
           <img src="https://img.shields.io/badge/🌐_Networking-Infrastructure-8B5CF6?style=flat-square&labelColor=1E293B"/>
-          <img src="https://img.shields.io/badge/🐳_Containers-Docker_&_K8s-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1E293B"/>
-        </details>
-        <br/>
-        <p align="center">
-          <b>🎯 2024 Goal:</b> Build 3 production-grade applications serving 10K+ users
+          <br/><br/>
+          <b>🎯 Goal:</b> To engineer software that doesn't just work—it <i>thrives</i> in production.
         </p>
       </td>
     </tr>
