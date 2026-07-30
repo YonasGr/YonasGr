@@ -1,308 +1,266 @@
-# 👋 Hi, I'm Yonas Girma
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1E3A8A&height=200&section=header&text=Yonas%20Girma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
 <div align="center">
-
-### Full Stack Software Engineer • React Native Developer • Backend Engineer • DevOps Enthusiast
-
-<p>
-Building scalable software, modern mobile applications, cloud-native backends, and automation tools.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;React+Native+Developer;Python+%7C+TypeScript+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;Cloud+%7C+Azure+%7C+DevOps;Always+Building+Something+Awesome." />
-
-<br><br>
-
-<a href="https://github.com/YonasGr">
-<img src="https://img.shields.io/badge/GitHub-YonasGr-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:yonasgirma222@gmail.com">
-<img src="https://img.shields.io/badge/Email-yonasgirma222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/x_jonah">
-<img src="https://img.shields.io/badge/Telegram-@x__jonah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Jonah_Girma">
-<img src="https://img.shields.io/badge/X-@Jonah_Girma-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://yonasgr.me">
-<img src="https://img.shields.io/badge/Portfolio-yonasgr.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://yonasgr.me/yonasgr-resume.pdf">
-<img src="https://img.shields.io/badge/Resume-PDF-E11D48?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;React+Native+Developer;Backend+%26+Cloud+Architect;Python+%7C+TypeScript+%7C+FastAPI;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
 
----
-
-# 💫 About Me
-
-I'm an **Information Technology student** and **Full Stack Software Engineer** passionate about designing software that is scalable, reliable, and enjoyable to use.
-
-My interests span across **mobile development**, **backend engineering**, **cloud infrastructure**, **DevOps**, **Linux systems**, **automation**, **networking**, and **modern software architecture**.
-
-I enjoy taking products from an idea to production by designing intuitive user experiences, building performant APIs, deploying cloud infrastructure, and continuously improving software quality.
-
----
-
-# 🚀 Featured Projects
-
-## 🕊 Logos Path
-
-### Cross-platform Bible Study Platform
-
-A polished cross-platform Bible study application focused on helping users build consistent spiritual habits through AI-assisted theological reflection, daily Scripture reading, quizzes, achievements, progress tracking, and beautiful user experiences.
-
-### Highlights
-
-- 📖 Daily Bible Reading
-- 🤖 AI-powered Reflection
-- 🧠 Bible Quizzes
-- 🏆 Achievements
-- 📊 Spiritual Growth Tracking
-- 🔥 Reading Streaks
-- ☁ Cloud Sync
-- 📱 Android & iOS
-- 🎨 Beautiful Modern UI
-
-**Tech**
-
-`React Native` • `Expo` • `React` • `TypeScript` • `Firebase` • `OpenRouter`
-
-### Links
-
-🌐 https://logospath-web.onrender.com
-
-📦 https://github.com/YonasGr/logospath
-
----
-
-## 🎮 Safari Game Zone
-
-### Real-time Multiplayer Telegram Mini App
-
-A production-ready multiplayer Bingo platform built as a Telegram Mini App featuring 75-ball and 90-ball Bingo variants, server-verified claims, auditable random number generation, wallet management, multiplayer rooms, and PostgreSQL-powered game state.
-
-### Highlights
-
-- 🎱 75 Ball Bingo
-- 🎱 90 Ball Bingo
-- ⚡ FastAPI Backend
-- 🎲 Auditable RNG
-- ✅ Server Verified Claims
-- 👥 Multiplayer Rooms
-- 💰 Wallet System
-- 🤖 Telegram Mini App
-- 🗄 PostgreSQL via Supabase
-
-**Tech**
-
-`Python` • `FastAPI` • `PostgreSQL` • `Supabase` • `Docker`
-
-### Repository
-
-📦 https://github.com/YonasGr/bingo
-
----
-
-## 💹 Binance P2P ETB Bot
-
-### Real-time Cryptocurrency Assistant
-
-Telegram bot providing live Binance P2P exchange rates, cryptocurrency conversions, coin information, interactive charts, and market insights in Ethiopian Birr and multiple currencies.
-
-### Features
-
-- 💱 Binance P2P Rates
-- 📈 Price Charts
-- 💰 Currency Conversion
-- 🤖 Inline Mode
-- 👥 Group Support
-- 🌍 Multi-currency
-
-**Tech**
-
-`Python` • `Telegram Bot API` • `Requests` • `Matplotlib`
-
-### Links
-
-🤖 https://t.me/binancep2pETBbot
-
-📦 https://github.com/YonasGr/BinanceP2PtgBot
-
----
-
-# 🛠 Tech Stack
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,php"/>
-
-</p>
-
----
-
-## Mobile Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,kotlin,typescript"/>
-
-<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,astro,typescript,html,css,tailwind,redux"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,supabase,firebase,postgres,redis,docker"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-</p>
-
----
-
-## Cloud • DevOps • Infrastructure
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,githubactions,git,github,nginx"/>
-
-</p>
-
----
-
-## Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 📱 React Native
-- ⚡ FastAPI
-- ☁ Microsoft Azure
-- 🐳 Docker
-- 🔄 CI/CD Pipelines
-- ☁ Cloud Infrastructure
-- 🏗 Software Architecture
-- 📦 PostgreSQL
-- 🔐 Authentication & Security
-- 🌐 Networking
-- ⚙ DevOps Automation
-
----
-
-# 📊 GitHub Activity
+<br/>
+
+<div align="center">
+  <a href="https://yonasgr.me" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-yonasgr.me-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B" />
+  </a>
+  <a href="https://yonasgr.me/yonasgr-resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-E11D48?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1E293B" />
+  </a>
+  <a href="mailto:yonasgirma222@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-yonasgirma222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/YonasGr">
+    <img src="https://img.shields.io/badge/GitHub-YonasGr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" />
+  </a>
+  <a href="https://t.me/x_jonah">
+    <img src="https://img.shields.io/badge/Telegram-@x__jonah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E293B" />
+  </a>
+  <a href="https://x.com/Jonah_Girma">
+    <img src="https://img.shields.io/badge/X-@Jonah_Girma-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1E293B" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧑‍💻 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p>
+          🎓 <b>Information Technology</b> student & <b>Full Stack Software Engineer</b><br/>
+          📱 Crafting cross-platform mobile experiences with <b>React Native</b><br/>
+          ⚡ Building high-performance backends with <b>FastAPI</b><br/>
+          ☁️ Designing cloud-native solutions on <b>Azure</b><br/>
+          🐳 Containerizing everything with <b>Docker</b><br/>
+          🔄 Automating workflows with <b>CI/CD</b> pipelines<br/>
+          🏗️ Passionate about <b>clean architecture</b> & <b>scalable systems</b>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕊 Logos Path</h3>
+      <p align="center">
+        <b>Cross-platform Bible Study Platform</b><br/><br/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
+        <img src="https://img.shields.io/badge/OpenRouter-AI-8B5CF6?style=flat-square"/>
+        <br/><br/>
+        AI-powered Bible study app with daily reading, theological reflection, quizzes, achievements, streaks, and cloud sync. Polished cross-platform experience for Android & iOS.
+        <br/><br/>
+        <a href="https://logospath-web.onrender.com">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+        </a>
+        <a href="https://github.com/YonasGr/logospath">
+          <img src="https://img.shields.io/badge/📦_Source-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 Safari Game Zone</h3>
+      <p align="center">
+        <b>Multiplayer Bingo Telegram Mini App</b><br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+        <br/><br/>
+        Production-ready 75-ball & 90-ball Bingo with server-verified claims, auditable RNG, multiplayer rooms, and wallet system.
+        <br/><br/>
+        <a href="https://github.com/YonasGr/bingo">
+          <img src="https://img.shields.io/badge/📦_Source-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💹 Binance P2P ETB Bot</h3>
+      <p align="center">
+        <b>Real-time Cryptocurrency Assistant</b><br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+        <br/><br/>
+        Telegram bot with live Binance P2P rates, crypto conversion, interactive charts, inline mode, and multi-currency support in Ethiopian Birr.
+        <br/><br/>
+        <a href="https://t.me/binancep2pETBbot">
+          <img src="https://img.shields.io/badge/🤖_Try_Bot-26A5E4?style=for-the-badge&logo=telegram"/>
+        </a>
+        <a href="https://github.com/YonasGr/BinanceP2PtgBot">
+          <img src="https://img.shields.io/badge/📦_Source-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="center">
+      <br/>
+      <h3>🌟 More Projects Coming Soon!</h3>
+      <p>
+        <i>Building innovative solutions in</i><br/>
+        Mobile • Cloud • AI • DevOps
+      </p>
+      <a href="https://github.com/YonasGr?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YonasGr&theme=tokyo-night&hide_border=true"/>
+### 🎯 Core Languages
+[![My Skills](https://skillicons.dev/icons?i=typescript,python,javascript,java,cpp&perline=5)](https://skillicons.dev)
+
+### 📱 Mobile & Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,redux,kotlin&perline=6)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1E293B"/>
+
+### ⚡ Backend & APIs
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,supabase,firebase,redis,docker&perline=6)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=1E293B"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B"/>
+
+### 🗄️ Data & Storage
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4)](https://skillicons.dev)
+
+### ☁️ Cloud, DevOps & Infra
+[![My Skills](https://skillicons.dev/icons?i=azure,linux,bash,githubactions,git,nginx&perline=6)](https://skillicons.dev)
+
+### 🛠️ Developer Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma&perline=4)](https://skillicons.dev)
 
 </div>
 
----
+<br/>
 
-# 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Current Focus
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake-dark.svg"/>
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📱_Mobile-React_Native_•_Expo-61DAFB?style=for-the-badge&labelColor=1E293B"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡_Backend-FastAPI_•_PostgreSQL-009688?style=for-the-badge&labelColor=1E293B"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/☁️_Cloud-Azure_•_Docker_•_CI/CD-0078D4?style=for-the-badge&labelColor=1E293B"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔐_Security-Authentication_•_Best_Practices-10B981?style=for-the-badge&labelColor=1E293B"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏗️_Architecture-System_Design_•_Scalability-F59E0B?style=for-the-badge&labelColor=1E293B"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐_Networking-Infrastructure_•_Protocols-8B5CF6?style=for-the-badge&labelColor=1E293B"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-# 🌐 Portfolio
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Personal Website
-
-https://yonasgr.me
-
----
-
-### Resume
-
-https://yonasgr.me/yonasgr-resume.pdf
-
----
-
-# 📬 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="mailto:yonasgirma222@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YonasGr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://t.me/x_jonah">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Jonah_Girma">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://yonasgr.me">
-<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YonasGr&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
----
+<br/>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YonasGr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonasGr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-> *"Great software isn't just built—it is engineered with purpose, refined through iteration, and measured by the value it creates."*
+<br/>
 
-<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-⭐ **If you find my work interesting, consider starring one of my repositories.**
+<br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Build Together
+
+<div align="center">
+  <p>
+    <i>"Great software isn't just built—it's engineered with purpose, refined through iteration, and measured by the value it creates."</i>
+  </p>
+
+  <br/>
+
+  <a href="https://yonasgr.me" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B"/>
+  </a>
+  <a href="mailto:yonasgirma222@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B"/>
+  </a>
+  <a href="https://github.com/YonasGr?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YonasGr&style=for-the-badge&color=4F8EF7&label=Profile+Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1E3A8A&height=100&section=footer" width="100%" />
 </div>
