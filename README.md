@@ -45,21 +45,65 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
-        <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=for-the-badge&labelColor=1E293B"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/📱_Mobile-React_Native_•_Expo-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1E293B"/>
+      <td>
+        <table>
+          <tr>
+            <td align="center" width="50%">
+              <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
+            </td>
+            <td align="center" width="50%">
+              <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=for-the-badge&labelColor=1E293B"/>
+            </td>
+          </tr>
+        </table>
         <br/>
-        <img src="https://img.shields.io/badge/⚡_Backend-FastAPI_•_Python-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1E293B"/>
+        <p align="left">
+          👋 Hey there! I'm a passionate <b>Software Engineer</b> and <b>IT student</b> who thrives at the intersection of <b>mobile development</b>, <b>backend engineering</b>, and <b>cloud infrastructure</b>. I transform ambitious ideas into production-ready applications that scale.
+        </p>
         <br/>
-        <img src="https://img.shields.io/badge/☁️_Cloud-Azure_Solutions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1E293B"/>
+        <details>
+          <summary><b>🔭 What I'm Currently Building</b></summary>
+          <br/>
+          <table>
+            <tr>
+              <td><img src="https://img.shields.io/badge/📱_Mobile-React_Native_•_Expo-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1E293B"/></td>
+              <td>Cross-platform apps for Android & iOS</td>
+            </tr>
+            <tr>
+              <td><img src="https://img.shields.io/badge/⚡_APIs-FastAPI_•_Python-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E293B"/></td>
+              <td>High-performance REST & GraphQL backends</td>
+            </tr>
+            <tr>
+              <td><img src="https://img.shields.io/badge/☁️_Cloud-Azure_•_Docker-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1E293B"/></td>
+              <td>Cloud-native infrastructure & containerization</td>
+            </tr>
+            <tr>
+              <td><img src="https://img.shields.io/badge/🔄_DevOps-CI/CD_•_Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1E293B"/></td>
+              <td>Automated deployment pipelines</td>
+            </tr>
+          </table>
+        </details>
         <br/>
-        <img src="https://img.shields.io/badge/🐳_Containers-Docker_•_Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E293B"/>
+        <details>
+          <summary><b>💡 My Engineering Philosophy</b></summary>
+          <br/>
+          <p align="center">
+            <i>"Great software isn't just built—it's engineered with purpose, refined through iteration, and measured by the value it creates for users."</i>
+          </p>
+        </details>
         <br/>
-        <img src="https://img.shields.io/badge/🔄_CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1E293B"/>
+        <details>
+          <summary><b>🌱 Currently Exploring</b></summary>
+          <br/>
+          <img src="https://img.shields.io/badge/🏗️_System_Design-Scalable_Architecture-F59E0B?style=flat-square&labelColor=1E293B"/>
+          <img src="https://img.shields.io/badge/🔐_Security-Auth_&_Best_Practices-10B981?style=flat-square&labelColor=1E293B"/>
+          <img src="https://img.shields.io/badge/🌐_Networking-Infrastructure-8B5CF6?style=flat-square&labelColor=1E293B"/>
+          <img src="https://img.shields.io/badge/🐳_Containers-Docker_&_K8s-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1E293B"/>
+        </details>
         <br/>
-        <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_&_Scalable-F59E0B?style=for-the-badge&labelColor=1E293B"/>
+        <p align="center">
+          <b>🎯 2024 Goal:</b> Build 3 production-grade applications serving 10K+ users
+        </p>
       </td>
     </tr>
   </table>
