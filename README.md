@@ -28,10 +28,10 @@
   <a href="https://github.com/YonasGr">
     <img src="https://img.shields.io/badge/GitHub-YonasGr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" />
   </a>
-  <a href="https://t.me/x_jonah">
+  <a href="https://t.me/YonasGr">
     <img src="https://img.shields.io/badge/Telegram-@x__jonah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E293B" />
   </a>
-  <a href="https://x.com/Jonah_Girma">
+  <a href="https://x.com/YonasGgr">
     <img src="https://img.shields.io/badge/X-@Jonah_Girma-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1E293B" />
   </a>
 </div>
