@@ -1,61 +1,300 @@
-# Hi there! 👋 I'm Yonas Girma
+<!-- ===================================================== -->
+<!--                 GitHub Profile README                 -->
+<!-- ===================================================== -->
 
-[![Email](https://img.shields.io/badge/Email-yonasgirma222@gmail.com-blue?style=flat-square&logo=gmail)](mailto:yonasgirma222@gmail.com)
-[![GitHub](https://img.shields.io/badge/-@YonasGr-%23181717?style=flat-square&logo=github)](https://github.com/YonasGr)
-[![Telegram](https://img.shields.io/badge/Telegram-@x_jonah-%232CA5E0?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/x_jonah)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-@Jonah_Girma-%23000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/Jonah_Girma)
+<div align="center">
 
-I'm an IT student at Haramaya University, passionate about software development and technology.
+# 👋 Hi, I'm Yonas Girma
 
-- 🔭 I’m currently working on my studies.
-- 🌱 I’m always learning new technologies and building my skills.
-- 📫 How to reach me: yonasgirma222@gmail.com
-- ⚡ **Fun fact:** I will be the future software developer.
-- 📍 **Location:** Harar, Ethiopia
+### Full Stack Developer • React Native Developer • Python Developer • Linux Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Modern+Software;React+Native+Developer;Python+Backend+Developer;Linux+%26+Docker+Enthusiast;Networking+Learner;Always+Learning+Something+New" alt="Typing SVG" />
 
-## 💻 Languages & Frameworks
+<br>
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=YonasGr&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
-## 🧰 Tools & Platforms
+# 🌍 Connect With Me
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<div align="center">
 
----
+<a href="mailto:yonasgirma222@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🚀 Currently Learning
+<a href="https://github.com/YonasGr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<a href="https://t.me/x_jonah">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
----
+<a href="https://x.com/Jonah_Girma">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
 
-## My contribution snake
-![GitHub Snake](https://raw.githubusercontent.com/yonasgr/yonasgr/main/dist/github-snake-dark.svg)
-
-
-## 📊 My GitHub Stats
-
-![Yonas Gr's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonasGr&show_icons=true&theme=dracula)
+</div>
 
 ---
 
-Feel free to check out my projects below!
+# 👨‍💻 About Me
+
+I'm an **Information Technology student** at **Haramaya University** with a passion for building software that solves real-world problems.
+
+I enjoy developing **mobile applications**, **backend systems**, **automation tools**, **Telegram bots**, and **cloud-based solutions** while continuously improving my knowledge of software engineering, networking, Linux, and DevOps.
+
+### 🚀 Current Focus
+
+- 📱 React Native Development
+- 🐍 Python Backend Development
+- ⚡ REST APIs
+- 🐳 Docker & Containerization
+- 🗄 PostgreSQL Database Design
+- ☁ Cloud Deployments
+- 🌐 Networking
+- 🔒 Cybersecurity Fundamentals
+
+---
+
+# 💼 Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,cpp,html,css,bash"/>
+
+</p>
+
+---
+
+## 📱 Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white">
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql">
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis">
+
+</p>
+
+---
+
+## 🛠 DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,git"/>
+
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare">
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure">
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,github"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎮 Safari Game Zone
+
+Modern Telegram gaming platform featuring
+
+- 🎯 Bingo
+- 🎰 Slot Machine
+- 💰 Wallet System
+- 👥 Referral System
+- 📈 Admin Dashboard
+
+**Tech**
+
+React • Python • PostgreSQL • Docker • Telegram Bot API
+
+---
+
+## 📦 AMU Resource Management System
+
+Enterprise inventory management system designed for university departments.
+
+Features include
+
+- Role Based Access Control
+- Department Management
+- Store Management
+- Inventory Tracking
+- Request Approval Workflow
+
+**Tech**
+
+Python • PostgreSQL • Docker • Redis
+
+---
+
+## 📱 Attendify
+
+Attendance management application built with React Native.
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects and experience.
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YonasGr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonasGr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YonasGr&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YonasGr&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YonasGr&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Coming Soon...
+```
+<!--END_SECTION:waka-->
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build production-grade mobile applications
+- ✅ Master React Native
+- ✅ Become an expert Python backend developer
+- ✅ Learn Kubernetes
+- ✅ Improve DevOps skills
+- ✅ Contribute to Open Source
+- ✅ Build scalable cloud-native applications
+
+---
+
+# ⚡ Fun Facts
+
+- 🐧 Linux is my daily operating system.
+- 🧠 I enjoy learning how things work under the hood.
+- 🌍 Passionate about open-source software.
+- 🚀 Always building something new.
+- 💡 I love solving real-world problems with technology.
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced React Native
+- High-performance PostgreSQL
+- System Design
+- Docker & Containers
+- Kubernetes
+- CI/CD Pipelines
+- Networking
+- Cloud Infrastructure
+
+---
+
+# 🤝 Open to Collaborate On
+
+- Open Source Projects
+- React Native Apps
+- Python Backend APIs
+- Automation Tools
+- Developer Tools
+- Mobile Applications
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+*"First, solve the problem. Then, write the code."*
+
+— John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</div>
