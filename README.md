@@ -45,16 +45,21 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <p>
-          <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=flat-square&labelColor=1E293B"/> <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=flat-square&labelColor=1E293B"/><br/><br/>
-          <img src="https://img.shields.io/badge/📱_Mobile-React_Native_Expo-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1E293B"/><br/>
-          <img src="https://img.shields.io/badge/⚡_Backend-FastAPI_Python-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E293B"/><br/>
-          <img src="https://img.shields.io/badge/☁️_Cloud-Azure_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1E293B"/><br/>
-          <img src="https://img.shields.io/badge/🐳_Containers-Docker_Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1E293B"/><br/>
-          <img src="https://img.shields.io/badge/🔄_CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1E293B"/><br/>
-          <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_&_Scalable-F59E0B?style=flat-square&logo=amazondocumentdb&logoColor=white&labelColor=1E293B"/>
-        </p>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎓_Student-Information_Technology-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
+        <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Engineer-10B981?style=for-the-badge&labelColor=1E293B"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📱_Mobile-React_Native_•_Expo-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1E293B"/>
+        <br/>
+        <img src="https://img.shields.io/badge/⚡_Backend-FastAPI_•_Python-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1E293B"/>
+        <br/>
+        <img src="https://img.shields.io/badge/☁️_Cloud-Azure_Solutions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1E293B"/>
+        <br/>
+        <img src="https://img.shields.io/badge/🐳_Containers-Docker_•_Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E293B"/>
+        <br/>
+        <img src="https://img.shields.io/badge/🔄_CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1E293B"/>
+        <br/>
+        <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_&_Scalable-F59E0B?style=for-the-badge&labelColor=1E293B"/>
       </td>
     </tr>
   </table>
@@ -150,29 +155,52 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
 
+<br/>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/🎯_Core_Languages-TypeScript_|_Python_|_JavaScript_|_Java_|_C++-4F8EF7?style=for-the-badge&labelColor=1E293B"/>
+
 [![My Skills](https://skillicons.dev/icons?i=typescript,python,javascript,java,cpp&perline=5)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/📱_Mobile_&_Frontend-React_|_Next.js_|_Expo_|_Kotlin-61DAFB?style=for-the-badge&labelColor=1E293B&logo=react"/>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,redux,kotlin&perline=6)](https://skillicons.dev)
 <br/>
+<br/>
+
+<img src="https://img.shields.io/badge/📱_Mobile_&_Frontend-React_|_Next.js_|_Expo_|_Kotlin-61DAFB?style=for-the-badge&labelColor=1E293B&logo=react"/>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,redux,kotlin&perline=6)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1E293B"/>
 
-<img src="https://img.shields.io/badge/⚡_Backend_&_APIs-FastAPI_|_Node.js_|_Firebase-009688?style=for-the-badge&labelColor=1E293B&logo=fastapi"/>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,supabase,firebase,redis,docker&perline=6)](https://skillicons.dev)
 <br/>
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_Backend_&_APIs-FastAPI_|_Node.js_|_Firebase-009688?style=for-the-badge&labelColor=1E293B&logo=fastapi"/>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,supabase,firebase,redis,docker&perline=6)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=1E293B"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B"/>
 
+<br/>
+<br/>
+
 <img src="https://img.shields.io/badge/🗄️_Data_&_Storage-PostgreSQL_|_MongoDB_|_Redis-4169E1?style=for-the-badge&labelColor=1E293B&logo=postgresql"/>
+
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4)](https://skillicons.dev)
 
+<br/>
+<br/>
+
 <img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-Azure_|_Docker_|_Linux_|_CI/CD-0078D4?style=for-the-badge&labelColor=1E293B&logo=microsoftazure"/>
+
 [![My Skills](https://skillicons.dev/icons?i=azure,linux,bash,githubactions,git,nginx&perline=6)](https://skillicons.dev)
 
+<br/>
+<br/>
+
 <img src="https://img.shields.io/badge/🛠️_Dev_Tools-VS_Code_|_Postman_|_Figma-5C2D91?style=for-the-badge&labelColor=1E293B&logo=visualstudiocode"/>
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma&perline=4)](https://skillicons.dev)
 
 </div>
