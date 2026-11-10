@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="418" viewBox="0 0 940 418" role="img" aria-label="Skill levels">
+<title>Skill levels</title>
+<defs>
+  <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111A3A"/></linearGradient>
+  <linearGradient id="brands" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4F8EF7"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <filter id="blurs" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <filter id="glows" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="940" height="418" rx="16" fill="url(#bgs)"/>
+<rect x=".5" y=".5" width="939" height="417" rx="16" fill="none" stroke="#2A3566"/>
+<text x="30" y="40" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#22D3EE">// skill_levels.ts   <tspan fill="#64748B">(1–5 · where I'm strongest today)</tspan></text>
+<text x="30" y="84" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Python</text>
+<text x="450" y="84" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">daily driver</text>
+<rect x="30" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="30" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.00s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.00s" dur=".5s" fill="freeze"/></rect>
+<rect x="98" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="98" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.12s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.12s" dur=".5s" fill="freeze"/></rect>
+<rect x="166" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="166" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.24s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.24s" dur=".5s" fill="freeze"/></rect>
+<rect x="234" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="234" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.36s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.36s" dur=".5s" fill="freeze"/></rect>
+<rect x="302" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="302" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.48s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.48s" dur=".5s" fill="freeze"/></rect>
+<text x="500" y="84" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">TypeScript</text>
+<text x="920" y="84" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">daily driver</text>
+<rect x="500" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="500" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.15s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.15s" dur=".5s" fill="freeze"/></rect>
+<rect x="568" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="568" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.27s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.27s" dur=".5s" fill="freeze"/></rect>
+<rect x="636" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="636" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.39s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.39s" dur=".5s" fill="freeze"/></rect>
+<rect x="704" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="704" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.51s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.51s" dur=".5s" fill="freeze"/></rect>
+<rect x="772" y="94" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="772" y="94" width="62" height="10" rx="5" fill="#4F8EF7" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.63s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.63s" dur=".5s" fill="freeze"/></rect>
+<text x="30" y="142" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">React Native / Expo</text>
+<text x="450" y="142" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">shipping apps</text>
+<rect x="30" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="30" y="152" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.10s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.10s" dur=".5s" fill="freeze"/></rect>
+<rect x="98" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="98" y="152" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.22s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.22s" dur=".5s" fill="freeze"/></rect>
+<rect x="166" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="166" y="152" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.34s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.34s" dur=".5s" fill="freeze"/></rect>
+<rect x="234" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="234" y="152" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.46s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.46s" dur=".5s" fill="freeze"/></rect>
+<rect x="302" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="500" y="142" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">FastAPI</text>
+<text x="920" y="142" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">shipping apis</text>
+<rect x="500" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="500" y="152" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.25s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.25s" dur=".5s" fill="freeze"/></rect>
+<rect x="568" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="568" y="152" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.37s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.37s" dur=".5s" fill="freeze"/></rect>
+<rect x="636" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="636" y="152" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.49s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.49s" dur=".5s" fill="freeze"/></rect>
+<rect x="704" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="704" y="152" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.61s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.61s" dur=".5s" fill="freeze"/></rect>
+<rect x="772" y="152" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="30" y="200" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">PostgreSQL / Supabase</text>
+<text x="450" y="200" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">comfortable</text>
+<rect x="30" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="30" y="210" width="62" height="10" rx="5" fill="#8B5CF6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.20s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.20s" dur=".5s" fill="freeze"/></rect>
+<rect x="98" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="98" y="210" width="62" height="10" rx="5" fill="#8B5CF6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.32s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.32s" dur=".5s" fill="freeze"/></rect>
+<rect x="166" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="166" y="210" width="62" height="10" rx="5" fill="#8B5CF6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.44s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.44s" dur=".5s" fill="freeze"/></rect>
+<rect x="234" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="234" y="210" width="62" height="10" rx="5" fill="#8B5CF6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.56s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.56s" dur=".5s" fill="freeze"/></rect>
+<rect x="302" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="500" y="200" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Docker</text>
+<text x="920" y="200" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">comfortable</text>
+<rect x="500" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="500" y="210" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.35s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.35s" dur=".5s" fill="freeze"/></rect>
+<rect x="568" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="568" y="210" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.47s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.47s" dur=".5s" fill="freeze"/></rect>
+<rect x="636" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="636" y="210" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.59s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.59s" dur=".5s" fill="freeze"/></rect>
+<rect x="704" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="704" y="210" width="62" height="10" rx="5" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.71s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.71s" dur=".5s" fill="freeze"/></rect>
+<rect x="772" y="210" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="30" y="258" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Firebase</text>
+<text x="450" y="258" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">comfortable</text>
+<rect x="30" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="30" y="268" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.30s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.30s" dur=".5s" fill="freeze"/></rect>
+<rect x="98" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="98" y="268" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.42s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.42s" dur=".5s" fill="freeze"/></rect>
+<rect x="166" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="166" y="268" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.54s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.54s" dur=".5s" fill="freeze"/></rect>
+<rect x="234" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="234" y="268" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.66s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.66s" dur=".5s" fill="freeze"/></rect>
+<rect x="302" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="500" y="258" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Linux &amp; Bash</text>
+<text x="920" y="258" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">comfortable</text>
+<rect x="500" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="500" y="268" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.45s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.45s" dur=".5s" fill="freeze"/></rect>
+<rect x="568" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="568" y="268" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.57s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.57s" dur=".5s" fill="freeze"/></rect>
+<rect x="636" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="636" y="268" width="62" height="10" rx="5" fill="#10B981" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.69s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.69s" dur=".5s" fill="freeze"/></rect>
+<rect x="704" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="772" y="268" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="30" y="316" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Azure / CI-CD</text>
+<text x="450" y="316" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">levelling up</text>
+<rect x="30" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="30" y="326" width="62" height="10" rx="5" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.40s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.40s" dur=".5s" fill="freeze"/></rect>
+<rect x="98" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="98" y="326" width="62" height="10" rx="5" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.52s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.52s" dur=".5s" fill="freeze"/></rect>
+<rect x="166" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="166" y="326" width="62" height="10" rx="5" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.64s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.64s" dur=".5s" fill="freeze"/></rect>
+<rect x="234" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="302" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="500" y="316" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">System design</text>
+<text x="920" y="316" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">levelling up</text>
+<rect x="500" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="500" y="326" width="62" height="10" rx="5" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.55s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.55s" dur=".5s" fill="freeze"/></rect>
+<rect x="568" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="568" y="326" width="62" height="10" rx="5" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.67s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.67s" dur=".5s" fill="freeze"/></rect>
+<rect x="636" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="636" y="326" width="62" height="10" rx="5" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.79s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.79s" dur=".5s" fill="freeze"/></rect>
+<rect x="704" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="772" y="326" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="30" y="374" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Security</text>
+<text x="450" y="374" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">learning</text>
+<rect x="30" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="30" y="384" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.50s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.50s" dur=".5s" fill="freeze"/></rect>
+<rect x="98" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="98" y="384" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.62s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.62s" dur=".5s" fill="freeze"/></rect>
+<rect x="166" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="234" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="302" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<text x="500" y="374" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="16" fill="#E2E8F0">Networking</text>
+<text x="920" y="374" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748B">learning</text>
+<rect x="500" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="500" y="384" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.65s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.65s" dur=".5s" fill="freeze"/></rect>
+<rect x="568" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="568" y="384" width="62" height="10" rx="5" fill="#F59E0B" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.77s" dur=".4s" fill="freeze"/><animate attributeName="width" values="0;62" begin="0.77s" dur=".5s" fill="freeze"/></rect>
+<rect x="636" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="704" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+<rect x="772" y="384" width="62" height="10" rx="5" fill="#1E2749"/>
+
+</svg>

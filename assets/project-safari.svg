@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="250" viewBox="0 0 450 250" role="img" aria-label="Safari Game Zone: Multiplayer 75 &amp; 90-ball Bingo with server-verified claims and auditable RNG.">
+<title>Safari Game Zone: Multiplayer 75 &amp; 90-ball Bingo with server-verified claims and auditable RNG.</title>
+<defs>
+  <linearGradient id="gsafari" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111A3A"/></linearGradient>
+  <linearGradient id="asafari" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <filter id="fsafari" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+  <clipPath id="ksafari"><rect width="450" height="250" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#ksafari)">
+<rect width="450" height="250" fill="url(#gsafari)"/>
+<circle cx="380" cy="40" r="110" fill="#10B981" opacity=".3" filter="url(#fsafari)"/>
+<g><circle cx="335" cy="64" r="19" fill="#10B981"/><circle cx="335" cy="64" r="12" fill="#fff" fill-opacity=".92"/><text x="335" y="68" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-weight="700" font-size="10" fill="#0B1020">B7</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".4 0 .6 1;.4 0 .6 1"/></g><g><circle cx="375" cy="64" r="19" fill="#F59E0B"/><circle cx="375" cy="64" r="12" fill="#fff" fill-opacity=".92"/><text x="375" y="68" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-weight="700" font-size="10" fill="#0B1020">I22</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="3.1s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".4 0 .6 1;.4 0 .6 1"/></g><g><circle cx="415" cy="64" r="19" fill="#F472B6"/><circle cx="415" cy="64" r="12" fill="#fff" fill-opacity=".92"/><text x="415" y="68" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-weight="700" font-size="10" fill="#0B1020">N41</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="2.7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".4 0 .6 1;.4 0 .6 1"/></g>
+<text x="24" y="40" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#10B981" letter-spacing="2">TELEGRAM MINI APP</text>
+<text x="24" y="86" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="31" fill="url(#asafari)">Safari Game Zone</text>
+<text x="24" y="116" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#CBD5E1">Multiplayer 75 &amp; 90-ball Bingo with</text>
+<text x="24" y="138" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#CBD5E1">server-verified claims and auditable RNG.</text>
+<line x1="24" y1="164" x2="426" y2="164" stroke="#2A3566"/>
+<text x="24" y="184" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#64748B">STACK</text>
+<rect x="24" y="196" width="62" height="24" rx="12" fill="#10B981" fill-opacity=".16" stroke="#10B981" stroke-opacity=".5"/><text x="55" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Python</text>
+<rect x="94.4" y="196" width="70" height="24" rx="12" fill="#10B981" fill-opacity=".16" stroke="#10B981" stroke-opacity=".5"/><text x="129" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">FastAPI</text>
+<rect x="172.20000000000002" y="196" width="92" height="24" rx="12" fill="#10B981" fill-opacity=".16" stroke="#10B981" stroke-opacity=".5"/><text x="218" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">PostgreSQL</text>
+<rect x="272.20000000000005" y="196" width="77" height="24" rx="12" fill="#10B981" fill-opacity=".16" stroke="#10B981" stroke-opacity=".5"/><text x="311" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Supabase</text>
+<rect x="357.40000000000003" y="196" width="62" height="24" rx="12" fill="#10B981" fill-opacity=".16" stroke="#10B981" stroke-opacity=".5"/><text x="389" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Docker</text>
+
+</g>
+<rect x=".5" y=".5" width="449" height="249" rx="18" fill="none" stroke="#10B981" stroke-opacity=".5"/>
+</svg>

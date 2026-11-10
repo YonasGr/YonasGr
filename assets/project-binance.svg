@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="250" viewBox="0 0 450 250" role="img" aria-label="Binance P2P Bot: Live P2P rates in Ethiopian Birr, charts, conversion and inline mode on Telegram.">
+<title>Binance P2P Bot: Live P2P rates in Ethiopian Birr, charts, conversion and inline mode on Telegram.</title>
+<defs>
+  <linearGradient id="gbinance" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111A3A"/></linearGradient>
+  <linearGradient id="abinance" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+  <filter id="fbinance" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+  <clipPath id="kbinance"><rect width="450" height="250" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#kbinance)">
+<rect width="450" height="250" fill="url(#gbinance)"/>
+<circle cx="380" cy="40" r="110" fill="#F59E0B" opacity=".3" filter="url(#fbinance)"/>
+<g transform="translate(302 24) scale(.72)">
+  <rect x="-8" y="-10" width="196" height="84" rx="10" fill="#0B1020" fill-opacity=".55" stroke="#F59E0B" stroke-opacity=".35"/>
+  <path d="M0,60 L30,44 L58,52 L90,24 L120,36 L150,10 L180,22" fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="260" stroke-dashoffset="260">
+    <animate attributeName="stroke-dashoffset" values="260;0;0;260" keyTimes="0;.45;.85;1" dur="6s" repeatCount="indefinite"/></path>
+  <circle r="5" fill="#F59E0B"><animateMotion dur="6s" repeatCount="indefinite" keyTimes="0;.45;1" keyPoints="0;1;1" calcMode="linear" path="M0,60 L30,44 L58,52 L90,24 L120,36 L150,10 L180,22"/></circle>
+  <text x="2" y="68" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#94A3B8">USDT/ETB · live</text></g>
+<text x="24" y="40" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#F59E0B" letter-spacing="2">TELEGRAM BOT</text>
+<text x="24" y="86" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="31" fill="url(#abinance)">Binance P2P Bot</text>
+<text x="24" y="116" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#CBD5E1">Live P2P rates in Ethiopian Birr, charts,</text>
+<text x="24" y="138" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#CBD5E1">conversion and inline mode on Telegram.</text>
+<line x1="24" y1="164" x2="426" y2="164" stroke="#2A3566"/>
+<text x="24" y="184" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#64748B">STACK</text>
+<rect x="24" y="196" width="62" height="24" rx="12" fill="#F59E0B" fill-opacity=".16" stroke="#F59E0B" stroke-opacity=".5"/><text x="55" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Python</text>
+<rect x="94.4" y="196" width="107" height="24" rx="12" fill="#F59E0B" fill-opacity=".16" stroke="#F59E0B" stroke-opacity=".5"/><text x="148" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Telegram API</text>
+<rect x="209.20000000000002" y="196" width="92" height="24" rx="12" fill="#F59E0B" fill-opacity=".16" stroke="#F59E0B" stroke-opacity=".5"/><text x="255" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Matplotlib</text>
+
+</g>
+<rect x=".5" y=".5" width="449" height="249" rx="18" fill="none" stroke="#F59E0B" stroke-opacity=".5"/>
+</svg>

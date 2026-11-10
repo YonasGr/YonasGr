@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="250" viewBox="0 0 450 250" role="img" aria-label="Logos Path: AI-powered Bible study: daily reading, reflection, quizzes, streaks &amp; cloud sync.">
+<title>Logos Path: AI-powered Bible study: daily reading, reflection, quizzes, streaks &amp; cloud sync.</title>
+<defs>
+  <linearGradient id="glogospath" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111A3A"/></linearGradient>
+  <linearGradient id="alogospath" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <filter id="flogospath" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+  <clipPath id="klogospath"><rect width="450" height="250" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#klogospath)">
+<rect width="450" height="250" fill="url(#glogospath)"/>
+<circle cx="380" cy="40" r="110" fill="#8B5CF6" opacity=".3" filter="url(#flogospath)"/>
+<g transform="translate(375 70)">
+  <circle r="46" fill="none" stroke="#8B5CF6" stroke-opacity=".35"/><circle r="28" fill="none" stroke="#8B5CF6" stroke-opacity=".5"/>
+  <g><circle cx="46" r="5" fill="#22D3EE"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></g>
+  <g><circle cx="-28" r="4" fill="#F472B6"/><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="6s" repeatCount="indefinite"/></g>
+  <rect x="-3" y="-18" width="6" height="36" rx="3" fill="#F1F5F9" opacity=".9"/><rect x="-12" y="-8" width="24" height="6" rx="3" fill="#F1F5F9" opacity=".9"/>
+  <animate attributeName="opacity" values=".7;1;.7" dur="4s" repeatCount="indefinite"/></g>
+<text x="24" y="40" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#8B5CF6" letter-spacing="2">MOBILE · ANDROID + IOS</text>
+<text x="24" y="86" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="31" fill="url(#alogospath)">Logos Path</text>
+<text x="24" y="116" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#CBD5E1">AI-powered Bible study: daily reading,</text>
+<text x="24" y="138" font-family="'Segoe UI',Inter,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#CBD5E1">reflection, quizzes, streaks &amp; cloud sync.</text>
+<line x1="24" y1="164" x2="426" y2="164" stroke="#2A3566"/>
+<text x="24" y="184" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#64748B">STACK</text>
+<rect x="24" y="196" width="107" height="24" rx="12" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".5"/><text x="77" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">React Native</text>
+<rect x="138.8" y="196" width="48" height="24" rx="12" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".5"/><text x="163" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Expo</text>
+<rect x="194.4" y="196" width="77" height="24" rx="12" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".5"/><text x="233" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">Firebase</text>
+<rect x="279.6" y="196" width="33" height="24" rx="12" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".5"/><text x="296" y="212" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#E2E8F0">AI</text>
+
+</g>
+<rect x=".5" y=".5" width="449" height="249" rx="18" fill="none" stroke="#8B5CF6" stroke-opacity=".5"/>
+</svg>

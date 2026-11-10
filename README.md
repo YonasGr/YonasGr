@@ -1,138 +1,166 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1E3A8A&height=200&section=header&text=Yonas%20Girma&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cloud&descAlignY=60&descSize=20" width="100%" alt="Yonas Girma banner" />
+<a id="top"></a>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&repeat=true&width=720&lines=Full+Stack+Software+Engineer;React+Native+%26+Expo+Developer;FastAPI+%7C+TypeScript+%7C+PostgreSQL;Cloud+%26+DevOps+on+Azure+%2B+Docker;Building+scalable+systems+that+ship" alt="Typing SVG" />
-  </a>
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Yonas Girma, full stack software engineer"/>
 
   <br/>
 
   <a href="https://yonasgr.me"><img src="https://img.shields.io/badge/Portfolio-yonasgr.me-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://yonasgr.me/yonasgr-resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-E11D48?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-  <a href="mailto:yonasgirma222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:yonasgirma222@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://t.me/YonasGr"><img src="https://img.shields.io/badge/Telegram-@YonasGr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://x.com/YonasGgr"><img src="https://img.shields.io/badge/X-@YonasGgr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-  <br/><br/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YonasGr&style=flat-square&color=4F8EF7&label=Profile+views" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/YonasGr?style=flat-square&logo=github&color=4F8EF7&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/created-at/YonasGr?style=flat-square&logo=github&color=8B5CF6&label=Joined" alt="Joined GitHub"/>
+    <img src="https://img.shields.io/github/commit-activity/y/YonasGr/YonasGr?style=flat-square&color=10B981&label=Commits%20this%20year" alt="Commit activity"/>
+  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YonasGr&style=flat-square&color=4F8EF7&label=Profile+views" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/YonasGr?style=flat-square&logo=github&color=4F8EF7&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/YonasGr?style=flat-square&logo=github&color=F59E0B&label=Total%20stars&affiliations=OWNER" alt="Stars"/>
+  <sub>
+    <a href="#about">About</a> ·
+    <a href="#now">Right now</a> ·
+    <a href="#principles">How I build</a> ·
+    <a href="#skills">Skills</a> ·
+    <a href="#projects">Projects</a> ·
+    <a href="#activity">Live activity</a> ·
+    <a href="#stats">Stats</a> ·
+    <a href="#contact">Contact</a>
+  </sub>
 </div>
 
----
+<br/>
 
-## 👋 About me
+<a id="about"></a>
+<img src="./assets/section-about.svg" width="100%" alt="About me"/>
 
-I'm a software engineer and Information Technology student who turns messy problems into clean, production-ready systems: mobile apps people enjoy using, APIs that hold up under load, and infrastructure that deploys itself.
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal intro: whoami, stack, projects, now, goal"/>
+</div>
+
+<br/>
+
+I'm a **software engineer and Information Technology student** from Ethiopia who likes turning messy, real-world problems into clean systems that people actually use. I build across the whole stack: **mobile apps** in React Native, **APIs** in FastAPI, **data layers** in PostgreSQL and Firebase, and the **Docker + CI/CD** plumbing that gets it all to production.
+
+Much of what I make is shaped by the people around me: Telegram bots and mini apps people use every day, and an AI study companion built around daily habits. I like building tools that stay fast, reliable and easy to understand on any phone and any connection, which keeps me focused on **performance, resilience and simplicity**.
 
 ```ts
 const yonas = {
-  location: "Ethiopia 🇪🇹",
-  role: "Full Stack Engineer",
+  role: "Full Stack Software Engineer",
   studying: "Information Technology",
   stack: ["TypeScript", "Python", "React Native", "FastAPI", "PostgreSQL", "Docker", "Azure"],
-  currentlyExploring: ["System architecture", "Security", "Networking"],
-  principles: [
-    "Ship small, ship often",
-    "Automate everything that repeats",
-    "Design for production on day one",
-  ],
-  funFact: "I build Telegram bots and mini apps for real users in Ethiopia",
+  buildsFor: ["mobile", "telegram", "the web"],
+  exploring: ["system architecture", "security", "networking"],
+  motto: "Ship small, ship often, design for production on day one.",
+  isOpenTo: ["collaborations", "interesting problems", "good conversations about code"],
 } as const;
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-### 🔭 What I'm building
-- 📱 **Mobile:** React Native + Expo apps for Android & iOS
-- ⚡ **Backend:** FastAPI services with PostgreSQL / Supabase
-- 🤖 **Bots & mini apps:** Telegram integrations people use daily
-- ☁️ **Infra:** Dockerized apps, CI/CD with GitHub Actions
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 What I'm learning
-- 🏗️ System design & clean architecture
-- 🔐 Authentication & application security
-- 🌐 Networking fundamentals & infrastructure
-- ☁️ Azure cloud services
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured projects
+<a id="now"></a>
+<img src="./assets/section-now.svg" width="100%" alt="Right now"/>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🕊️ Logos Path
-**AI-powered Bible study app**
-
-Daily reading, theological reflection, quizzes, achievements, streaks and cloud sync, on Android & iOS.
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-AI-8B5CF6?style=flat-square)
-
-[🌐 Live demo](https://logospath-web.onrender.com) · [📦 Source](https://github.com/YonasGr/logospath)
+#### 🔨 Building
+- **Logos Path:** shipping an AI-assisted Bible study app to Android & iOS
+- **Safari Game Zone:** hardening multiplayer Bingo (fairness, wallets, scale)
+- **Binance P2P Bot:** live ETB rates, charts and inline mode
 
 </td>
 <td width="33%" valign="top">
 
-### 🎮 Safari Game Zone
-**Multiplayer Bingo Telegram Mini App**
-
-75-ball & 90-ball Bingo with server-verified claims, auditable RNG, multiplayer rooms and a wallet system.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[📦 Source](https://github.com/YonasGr/bingo)
+#### 📚 Learning
+- Clean architecture & system design trade-offs
+- Authentication, authorization & app security
+- Networking fundamentals and protocols
+- Azure services, containers and pipelines
 
 </td>
 <td width="33%" valign="top">
 
-### 💹 Binance P2P Bot
-**Real-time crypto assistant**
-
-Live Binance P2P rates in Ethiopian Birr, crypto conversion, interactive charts and inline mode.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-[🤖 Try the bot](https://t.me/binancep2pETBbot) · [📦 Source](https://github.com/YonasGr/BinanceP2PtgBot)
+#### 🎯 Aiming for
+- Designs that survive real production traffic
+- Tests and observability as a default, not an afterthought
+- More open-source, better docs
+- Writing about what I learn along the way
 
 </td>
 </tr>
 </table>
+
+> [!TIP]
+> Want to see how I think about a problem before we talk? The [portfolio](https://yonasgr.me) walks through the decisions behind each project, not just the screenshots.
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<a id="principles"></a>
+<img src="./assets/section-principles.svg" width="100%" alt="How I build"/>
+
+### 🧭 Engineering principles
+
+| | Principle | What it means in practice |
+|:-:|:--|:--|
+| 🚢 | **Ship small, ship often** | Thin vertical slices, feature flags and quick feedback beat big-bang releases. |
+| 🧱 | **Boring tech, sharp design** | Pick proven tools (Postgres, Docker, FastAPI) and spend the creativity on the problem. |
+| 🔐 | **Never trust the client** | Validate and verify on the server: claims, prices, balances and permissions. |
+| 🤖 | **Automate what repeats** | If I do it twice, it becomes a script, a Makefile target or a GitHub Action. |
+| 📉 | **Design for bad networks** | Optimistic UI, retries, caching and graceful offline states, because users are on real networks. |
+| 📖 | **Write it down** | READMEs, ADRs and clear commit messages: future-me is a teammate too. |
+
+### 🔁 How an idea becomes a deployed feature
+
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B[📝 Spec & data model]
+    B --> C[🧪 Build a thin slice]
+    C --> D[✅ Tests & review]
+    D --> E[🐳 Containerize]
+    E --> F[⚙️ CI/CD<br/>GitHub Actions]
+    F --> G[☁️ Deploy<br/>Render · Vercel · Azure]
+    G --> H[📊 Observe & learn]
+    H -.feedback.-> A
+    style A fill:#4F8EF7,color:#fff,stroke:none
+    style G fill:#10B981,color:#fff,stroke:none
+    style H fill:#8B5CF6,color:#fff,stroke:none
+```
+
+<details>
+<summary><b>🧰 My default project checklist</b> (click to expand)</summary>
+
+<br/>
+
+- [x] Typed APIs with validated request and response models
+- [x] Environment-based config, no secrets in the repo
+- [x] Dockerfile + one-command local setup
+- [x] CI that lints, tests and builds on every push
+- [x] Clear README: what it is, how to run it, how it's designed
+- [ ] Structured logging and error tracking *(always improving)*
+- [ ] Load testing before launch *(on the roadmap)*
+
+</details>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<a id="skills"></a>
+<img src="./assets/section-skills.svg" width="100%" alt="Skills and stack"/>
 
 <div align="center">
-  <a href="https://github.com/YonasGr?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+  <img src="./assets/skills.svg" width="100%" alt="Skill levels from 1 to 5 across languages, frameworks, cloud and security"/>
 </div>
 
----
-
-## 🛠️ Tech stack
+<br/>
 
 <div align="center">
 
 | | |
 |:--|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=typescript,python,javascript,java,cpp,kotlin&perline=6" alt="Languages"/> |
-| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,redux&perline=5" alt="Frontend"/> |
+| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,redux&perline=5" alt="Mobile and frontend"/> |
 | **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,supabase,redis&perline=5" alt="Backend"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4" alt="Databases"/> |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,githubactions,nginx&perline=6" alt="Cloud and DevOps"/> |
@@ -140,14 +168,160 @@ Live Binance P2P rates in Ethiopian Birr, crypto conversion, interactive charts 
 
 </div>
 
----
+<details>
+<summary><b>🗺️ What I actually use each tool for</b></summary>
 
-## 📊 GitHub stats
+<br/>
+
+| Tool | Where it shows up in my work |
+|:--|:--|
+| **React Native + Expo** | Cross-platform mobile apps, OTA updates, fast iteration on Android & iOS |
+| **FastAPI + Python** | Typed REST/WebSocket backends, Telegram bots, background jobs |
+| **TypeScript** | Mobile and web frontends, shared types, tooling |
+| **PostgreSQL / Supabase** | Relational data, transactions for wallets & game state, auth and storage |
+| **Firebase** | Auth, cloud sync, realtime data for mobile apps |
+| **Docker** | Reproducible environments and deployable images |
+| **GitHub Actions** | CI/CD, scheduled jobs, even this profile's live sections |
+| **Render · Vercel · Azure** | Hosting APIs, web apps and cloud experiments |
+
+</details>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<a id="projects"></a>
+<img src="./assets/section-projects.svg" width="100%" alt="Featured projects"/>
+
+<div align="center">
+  <a href="https://github.com/YonasGr/logospath"><img src="./assets/project-logospath.svg" width="32%" alt="Logos Path, AI-powered Bible study app"/></a>
+  <a href="https://github.com/YonasGr/bingo"><img src="./assets/project-safari.svg" width="32%" alt="Safari Game Zone, multiplayer Bingo Telegram mini app"/></a>
+  <a href="https://github.com/YonasGr/BinanceP2PtgBot"><img src="./assets/project-binance.svg" width="32%" alt="Binance P2P Bot, live crypto rates on Telegram"/></a>
+</div>
+
+<br/>
+
+<details open>
+<summary><b>🕊️ Logos Path</b> &nbsp;·&nbsp; AI-powered Bible study</summary>
+
+<br/>
+
+A cross-platform study companion that turns scripture reading into a daily habit: guided reading, AI-assisted theological reflection, quizzes, achievements, streaks and cloud sync across devices.
+
+**Highlights**
+- 📖 Daily reading flow with reflection prompts
+- 🧠 AI-powered theological reflection via OpenRouter
+- 🏆 Quizzes, achievements and streaks for retention
+- ☁️ Firebase auth and cloud sync between devices
+- 📱 One codebase for Android & iOS, plus a [web build](https://logospath-web.onrender.com)
+
+```mermaid
+flowchart LR
+    U([📱 User]) --> APP[React Native · Expo]
+    APP --> AUTH[(Firebase)]
+    APP --> DB[(Cloud sync)]
+    APP --> AI[OpenRouter<br/>AI reflection]
+    APP --> WEB[Web build on Render]
+```
+
+[🌐 Live demo](https://logospath-web.onrender.com) · [📦 Source code](https://github.com/YonasGr/logospath)
+
+</details>
+
+<details>
+<summary><b>🎮 Safari Game Zone</b> &nbsp;·&nbsp; Multiplayer Bingo on Telegram</summary>
+
+<br/>
+
+A production-minded Bingo platform inside Telegram: 75-ball and 90-ball games, multiplayer rooms, a wallet system, and a design where the **server is the source of truth**.
+
+**Highlights**
+- 🎱 75-ball and 90-ball variants
+- ✅ Server-verified win claims, so clients can't fake a Bingo
+- 🎲 Auditable RNG for provable fairness
+- 👥 Multiplayer rooms
+- 💰 Wallet system for in-game balances
+
+```mermaid
+sequenceDiagram
+    participant P as 📱 Player (Telegram Mini App)
+    participant A as ⚡ FastAPI server
+    participant D as 🐘 PostgreSQL / Supabase
+    P->>A: Join room / buy card
+    A->>D: Debit wallet (transaction)
+    A-->>P: Card issued
+    loop Every draw
+        A->>A: Auditable RNG draws number
+        A-->>P: Broadcast number
+    end
+    P->>A: Claim BINGO
+    A->>D: Verify marks against drawn numbers
+    A-->>P: Win confirmed / rejected
+```
+
+[📦 Source code](https://github.com/YonasGr/bingo)
+
+</details>
+
+<details>
+<summary><b>💹 Binance P2P Bot</b> &nbsp;·&nbsp; Real-time crypto assistant</summary>
+
+<br/>
+
+A Telegram bot that answers a question every P2P trader in Ethiopia asks: *"what's the rate right now?"*
+
+**Highlights**
+- 📈 Live Binance P2P rates in Ethiopian Birr
+- 🔄 Crypto conversion across multiple currencies
+- 📊 Interactive charts rendered with Matplotlib
+- ⌨️ Inline mode: query rates from any chat
+
+```mermaid
+flowchart LR
+    T([💬 Telegram user]) --> BOT[Python bot]
+    BOT --> P2P[(Binance P2P data)]
+    BOT --> CH[Matplotlib charts]
+    BOT --> INL[Inline mode]
+    P2P --> BOT
+    CH --> T
+```
+
+[🤖 Try the bot](https://t.me/binancep2pETBbot) · [📦 Source code](https://github.com/YonasGr/BinanceP2PtgBot)
+
+</details>
+
+> [!NOTE]
+> The diagrams above are simplified overviews. Each repository's README goes deeper into architecture and setup.
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<a id="activity"></a>
+<img src="./assets/section-activity.svg" width="100%" alt="Live activity"/>
+
+### 🆕 Latest repositories
+
+<!--REPOS:START-->
+_Loading… this block fills itself on the next scheduled run._
+<!--REPOS:END-->
+
+### ⚡ Recent activity
+
+<!--ACTIVITY:START-->
+_Loading… this block fills itself on the next scheduled run._
+<!--ACTIVITY:END-->
+
+<div align="right">
+<!--UPDATED:START-->
+<!--UPDATED:END-->
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<a id="stats"></a>
+<img src="./assets/section-stats.svg" width="100%" alt="Stats and contributions"/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg">
-    <img alt="Profile details" src="./profile-summary-card-output/default/0-profile-details.svg" width="100%">
+    <img alt="GitHub profile details" src="./profile-summary-card-output/default/0-profile-details.svg" width="100%">
   </picture>
 </div>
 
@@ -156,13 +330,13 @@ Live Binance P2P rates in Ethiopian Birr, crypto conversion, interactive charts 
 <td width="50%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg">
-    <img alt="Top languages by repo" src="./profile-summary-card-output/default/1-repos-per-language.svg" width="100%">
+    <img alt="Top languages by repository" src="./profile-summary-card-output/default/1-repos-per-language.svg" width="100%">
   </picture>
 </td>
 <td width="50%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg">
-    <img alt="Top languages by commit" src="./profile-summary-card-output/default/2-most-commit-language.svg" width="100%">
+    <img alt="Top languages by commits" src="./profile-summary-card-output/default/2-most-commit-language.svg" width="100%">
   </picture>
 </td>
 </tr>
@@ -176,7 +350,7 @@ Live Binance P2P rates in Ethiopian Birr, crypto conversion, interactive charts 
 <td width="50%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg">
-    <img alt="Productive time of day" src="./profile-summary-card-output/default/4-productive-time.svg" width="100%">
+    <img alt="When I code during the day" src="./profile-summary-card-output/default/4-productive-time.svg" width="100%">
   </picture>
 </td>
 </tr>
@@ -185,24 +359,58 @@ Live Binance P2P rates in Ethiopian Birr, crypto conversion, interactive charts 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/YonasGr/YonasGr/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-## 🤝 Let's build something
+<a id="contact"></a>
+<img src="./assets/section-contact.svg" width="100%" alt="Let's talk"/>
 
-I'm always up for talking about mobile apps, backend architecture, Telegram bots, or anything that ships to real users.
+### 💬 Ask me about
+
+<details>
+<summary><b>📱 Shipping React Native + Expo apps</b></summary>
+
+<br/>Project structure, state management, offline-first UX, OTA updates, store releases and the little details that make an app feel native.
+
+</details>
+
+<details>
+<summary><b>⚡ Designing FastAPI backends</b></summary>
+
+<br/>Typed schemas, async patterns, auth, background tasks, Postgres modelling and deploying with Docker.
+
+</details>
+
+<details>
+<summary><b>🤖 Building Telegram bots & mini apps</b></summary>
+
+<br/>Bot architecture, inline mode, mini-app auth, payments-adjacent flows and keeping server-side logic trustworthy.
+
+</details>
+
+<details>
+<summary><b>🎓 Growing as a student engineer</b></summary>
+
+<br/>Balancing studies with real projects, learning in public, and turning side projects into portfolio pieces.
+
+</details>
+
+### 🤝 Reach me
 
 <div align="center">
-  <a href="https://yonasgr.me"><img src="https://img.shields.io/badge/Visit_my_portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:yonasgirma222@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/YonasGr"><img src="https://img.shields.io/badge/Message_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:yonasgirma222@gmail.com"><img src="https://img.shields.io/badge/Email-yonasgirma222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/YonasGr"><img src="https://img.shields.io/badge/Telegram-Message_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://x.com/YonasGgr"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://yonasgr.me"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1E3A8A&height=100&section=footer" width="100%" alt="" />
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
+  <br/>
+  <a href="#top"><sub>⬆ back to top</sub></a>
 </div>
