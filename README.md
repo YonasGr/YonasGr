@@ -299,17 +299,30 @@ flowchart LR
 ### 🆕 Latest repositories
 
 <!--REPOS:START-->
-_Loading… this block fills itself on the next scheduled run._
+| Repository | About | Lang | ⭐ | Updated |
+|:--|:--|:--|:-:|:--|
+| [**melbete-bingo**](https://github.com/YonasGr/melbete-bingo) | No description yet | 🐍 Python | 0 | 2h ago |
+| [**portfolio**](https://github.com/YonasGr/portfolio) | Personal Portfolio | 📦 Astro | 1 | 3d ago |
+| [**AMU-Resource-Management-System**](https://github.com/YonasGr/AMU-Resource-Management-System) | A modular university resource management system for Arba Minch Univer… | 🔷 TypeScript | 0 | 22d ago |
+| [**Nochew-Store**](https://github.com/YonasGr/Nochew-Store) | 🚀 Full-featured Telegram Reseller Bot built with Python (aiogram 3) a… | 🐍 Python | 1 | 2mo ago |
+| [**temesgen-rangobet**](https://github.com/YonasGr/temesgen-rangobet) | No description yet | 🟨 JavaScript | 0 | 3mo ago |
+| [**Safari-Game-Zone**](https://github.com/YonasGr/Safari-Game-Zone) | No description yet | 🔷 TypeScript | 0 | 4mo ago |
 <!--REPOS:END-->
 
 ### ⚡ Recent activity
 
 <!--ACTIVITY:START-->
-_Loading… this block fills itself on the next scheduled run._
+- ⬆️ Pushed **1** commit to [portfolio](https://github.com/YonasGr/portfolio) · <sub>3d ago</sub>
+- 🔀 Merged a pull request in [portfolio](https://github.com/YonasGr/portfolio) · <sub>3d ago</sub>
+- 🔀 Opened a pull request in [portfolio](https://github.com/YonasGr/portfolio) · <sub>3d ago</sub>
+- ⬆️ Pushed **1** commit to [AMU-Resource-Management-System](https://github.com/YonasGr/AMU-Resource-Management-System) · <sub>22d ago</sub>
+- 🔀 Closed a pull request in [AMU-Resource-Management-System](https://github.com/YonasGr/AMU-Resource-Management-System) · <sub>25d ago</sub>
+- 🔀 Merged a pull request in [AMU-Resource-Management-System](https://github.com/YonasGr/AMU-Resource-Management-System) · <sub>22d ago</sub>
 <!--ACTIVITY:END-->
 
 <div align="right">
 <!--UPDATED:START-->
+<sub>🔄 Auto-refreshed on 10 Nov 2026, 20:08 UTC by GitHub Actions</sub>
 <!--UPDATED:END-->
 </div>
 
