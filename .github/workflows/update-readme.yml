@@ -17,14 +17,18 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+
+      # No setup-python: it has no prebuilt Python for Fedora, and this
+      # script is pure standard library, so the system python3 is enough.
+      - name: Check Python
+        run: python3 --version
+
       - name: Refresh auto-generated sections
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: python scripts/update_readme.py
+        run: python3 scripts/update_readme.py
+
       - name: Commit if changed
         run: |
           if [[ -n "$(git status --porcelain README.md)" ]]; then
