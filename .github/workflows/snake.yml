@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: [self-hosted, linux, arm64]
+    runs-on: [self-hosted, linux, x64]
     timeout-minutes: 10
     steps:
       - name: Generate snake
