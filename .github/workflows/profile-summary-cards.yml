@@ -1,0 +1,29 @@
+name: Profile Summary Cards
+
+# Generates the stats cards as static SVGs and commits them to this repo,
+# so the README no longer depends on the rate-limited public Vercel API.
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Falls back to the built-in token if you haven't added a PAT secret.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          TIME_ZONE: Africa/Addis_Ababa   # productive-time card in your local time (UTC+3)
+          AUTO_PUSH: true
